@@ -33,3 +33,12 @@ Source-Age: 1
 [2025-11-27 15:39:11,649: INFO: main: >>>>>> Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2025-12-01 14:03:32,446: INFO: main: >>>>>> Data Ingestion Stage started <<<<<<]
+[2025-12-01 14:03:32,496: INFO: common: YAML file config\config.yaml loaded successfully]
+[2025-12-01 14:03:32,504: INFO: common: YAML file params.yaml loaded successfully]
+[2025-12-01 14:03:32,505: INFO: common: created directory at: artifacts]
+[2025-12-01 14:03:32,505: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-12-01 14:03:32,506: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2025-12-01 14:03:34,042: INFO: main: >>>>>> Data Ingestion Stage completed <<<<<<
+
+x==========x]
