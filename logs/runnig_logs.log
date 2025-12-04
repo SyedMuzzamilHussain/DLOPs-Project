@@ -42,3 +42,18 @@ x==========x]
 [2025-12-01 14:03:34,042: INFO: main: >>>>>> Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2025-12-03 12:57:51,153: INFO: common: YAML file config\config.yaml loaded successfully]
+[2025-12-03 12:57:51,182: INFO: common: YAML file params.yaml loaded successfully]
+[2025-12-03 12:57:51,182: INFO: common: created directory at: artifacts]
+[2025-12-03 12:57:51,196: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-12-03 12:58:08,755: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-12-03 12:58:13,139: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-12-04 12:45:38,151: INFO: main: >>>>>> Data Ingestion Stage started <<<<<<]
+[2025-12-04 12:45:38,882: INFO: common: YAML file config\config.yaml loaded successfully]
+[2025-12-04 12:45:39,071: INFO: common: YAML file params.yaml loaded successfully]
+[2025-12-04 12:45:39,072: INFO: common: created directory at: artifacts]
+[2025-12-04 12:45:39,073: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-12-04 12:45:39,074: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2025-12-04 12:45:49,000: INFO: main: >>>>>> Data Ingestion Stage completed <<<<<<
+
+x==========x]
